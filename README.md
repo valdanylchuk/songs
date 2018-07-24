@@ -1,5 +1,7 @@
 # Останні Романтики
 
+<img align="right" src="img/OstanniRomantyky.jpg" alt="Останні Романтики">
+
 Sheet music and some source files for the band Ostanni Romantyky
 
 Ноти та інші вихідні дані для пісень гурту "Останні Романтики"
@@ -14,9 +16,9 @@ SoundCloud: http://soundcloud.com/val-danylchuk
 
 ## Lead sheets / Ноти
 
-[Приїжджай (Pryizjay)](https://www.youtube.com/watch?v=LXlTxo2Iows): [ноти (pdf)](pryizjay/pryizjay.pdf) [ноти (MuseScore)](pryizjay/pryizjay.mscz)
+[Приїжджай (Pryizjay)](https://www.youtube.com/watch?v=LXlTxo2Iows): [ноти (pdf)](pryizjay/pryizjay.pdf) | [ноти (MuseScore)](pryizjay/pryizjay.mscz)
 
-[Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [ноти (pdf)](yak-ptahy/yak-ptahy.pdf) [ноти (MuseScore)](yak-ptahy/yak-ptahy.mscz)
+[Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [ноти (pdf)](yak-ptahy/yak-ptahy.pdf) | [ноти (MuseScore)](yak-ptahy/yak-ptahy.mscz)
 
 ## License / Ліцензія
 
