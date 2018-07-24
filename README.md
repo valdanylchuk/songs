@@ -1,6 +1,6 @@
 # Останні Романтики
 
-<img align="right" src="img/OstanniRomantyky.jpg" alt="Останні Романтики">
+<img align="right" src="img/OstanniRomantyky330.jpg" alt="Останні Романтики">
 
 Sheet music and some source files for the band Ostanni Romantyky
 
