@@ -16,6 +16,10 @@ SoundCloud: http://soundcloud.com/val-danylchuk
 
 ## Lead sheets / Ноти
 
+[Дзвони, коли що (Dzvony Koly Scho)](https://www.youtube.com/watch?v=oVrgbND_xb0): [ноти (pdf)](dzvony-koly-scho/dzvony-koly-scho.pdf) | [ноти (MuseScore)](dzvony-koly-scho/dzvony-koly-scho.mscz)
+
+[Дивись у небо (Dyvys' u Nebo)](dyvys-u-nebo/dyvys-u-nebo-draft.mp3): [ноти (pdf)](dyvys-u-nebo/dyvys-u-nebo.pdf) | [ноти (MuseScore)](dyvys-u-nebo/dyvys-u-nebo.mscz)
+
 [Приїжджай (Pryizjay)](https://www.youtube.com/watch?v=LXlTxo2Iows): [ноти (pdf)](pryizjay/pryizjay.pdf) | [ноти (MuseScore)](pryizjay/pryizjay.mscz)
 
 [Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [ноти (pdf)](yak-ptahy/yak-ptahy.pdf) | [ноти (MuseScore)](yak-ptahy/yak-ptahy.mscz)
