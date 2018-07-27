@@ -22,6 +22,8 @@ SoundCloud: http://soundcloud.com/val-danylchuk
 
 [Приїжджай (Pryizjay)](https://www.youtube.com/watch?v=LXlTxo2Iows): [акорди (pdf)](pryizjay/pryizjay.pdf) | [акорди (MuseScore)](pryizjay/pryizjay.mscz)
 
+[Решта – пусте (Reshta – puste)](https://www.youtube.com/watch?v=mLIleMYKs90): [акорди (pdf)](reshta-puste/reshta-puste.pdf) | [акорди (MuseScore)](reshta-puste/reshta-puste.mscz)
+
 [Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [акорди (pdf)](yak-ptahy/yak-ptahy.pdf) | [акорди (MuseScore)](yak-ptahy/yak-ptahy.mscz)
 
 ## License / Ліцензія
