@@ -20,9 +20,11 @@ SoundCloud: http://soundcloud.com/val-danylchuk
 
 [Дивись у небо (Dyvys' u Nebo)](dyvys-u-nebo/dyvys-u-nebo-draft.mp3): [акорди (pdf)](dyvys-u-nebo/dyvys-u-nebo.pdf) | [акорди (MuseScore)](dyvys-u-nebo/dyvys-u-nebo.mscz)
 
+[Панди (Pandy)](pandy/pandy-draft.mp3): [акорди (pdf)](pandy/pandy.pdf) | [акорди (MuseScore)](pandy/pandy.mscz)
+
 [Приїжджай (Pryizjay)](https://www.youtube.com/watch?v=LXlTxo2Iows): [акорди (pdf)](pryizjay/pryizjay.pdf) | [акорди (MuseScore)](pryizjay/pryizjay.mscz)
 
-[Решта – пусте (Reshta – puste)](https://www.youtube.com/watch?v=mLIleMYKs90): [акорди (pdf)](reshta-puste/reshta-puste.pdf) | [акорди (MuseScore)](reshta-puste/reshta-puste.mscz)
+[Решта – пусте (Reshta – Puste)](https://www.youtube.com/watch?v=mLIleMYKs90): [акорди (pdf)](reshta-puste/reshta-puste.pdf) | [акорди (MuseScore)](reshta-puste/reshta-puste.mscz)
 
 [Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [акорди (pdf)](yak-ptahy/yak-ptahy.pdf) | [акорди (MuseScore)](yak-ptahy/yak-ptahy.mscz)
 
