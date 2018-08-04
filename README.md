@@ -28,6 +28,8 @@ SoundCloud: http://soundcloud.com/val-danylchuk
 
 [Саме таку (Same Taku)](https://www.youtube.com/watch?v=Pkc934oJ33M): [акорди (pdf)](same-taku/same-taku.pdf) | [акорди (MuseScore)](same-taku/same-taku.mscz)
 
+[Твої ніжні слова (Tvoi Nizhni Slova)](https://www.youtube.com/watch?v=zJuTn2minWE): [акорди (pdf)](tvoi-nizhni-slova/tvoi-nizhni-slova.pdf) | [акорди (MuseScore)](tvoi-nizhni-slova/tvoi-nizhni-slova.mscz)
+
 [Як птахи (Yak Ptahy)](https://www.youtube.com/watch?v=hyP5_a48w_E): [акорди (pdf)](yak-ptahy/yak-ptahy.pdf) | [акорди (MuseScore)](yak-ptahy/yak-ptahy.mscz)
 
 ## License / Ліцензія
